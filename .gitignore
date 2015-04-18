@@ -1,0 +1,13 @@
+incremental_db
+db
+eda
+build
+simulation
+greybox_tmp
+*.qws
+*.qarlog
+*.rpt
+PLLJ_PLLSPE_INFO.txt
+a5_pin_model_dump.txt
+ddr3_x32_p0_summary.csv
+ddr3_x32_p0_all_pins.txt

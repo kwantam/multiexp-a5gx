@@ -1,0 +1,5 @@
+*.ver
+ddr3*.hex
+altera_mem_if_sequencer_cpu*
+libraries
+*.wlf

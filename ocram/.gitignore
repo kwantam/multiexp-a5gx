@@ -1,0 +1,5 @@
+*
+!.gitignore
+!e_ram.v
+!g_ram.v
+!t_ram.v
